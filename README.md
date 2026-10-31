@@ -16,8 +16,6 @@ Open `UWA_Campus.blend` in **Blender 5.2 LTS**; the release was checked with **5
 
 Coordinates use **X east, Y north, Z up**, in metres. The file is a substantial scene with tens of thousands of objects; allow time for the packed libraries to load. System-font inscriptions are preserved as meshes in the release copy.
 
-中文：在上方 Release 中下载模型压缩包，解压后用 Blender 5.2 LTS 打开 `UWA_Campus.blend`。贴图和建筑库已内置，无需安装 MCP。模型包含照片推估部分，具体范围及不足见说明。
-
 ## Gallery
 
 All images below are renders from the model. The campus and building views were rendered from the publication copy; the final three patch views are the original R25 review renders.
