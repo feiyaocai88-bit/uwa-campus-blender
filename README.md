@@ -28,6 +28,18 @@ All images below are renders from the model. The campus and building views were 
 | --- | --- |
 | ![Winthrop Hall](images/winthrop.jpg) | ![Reid Library](images/reid.jpg) |
 
+| EZONE west approach | Sunken Garden |
+| --- | --- |
+| ![EZONE west approach](images/ezone.jpg) | ![Sunken Garden](images/sunken_garden.jpg) |
+
+### Winthrop sculptures
+
+| Socrates — adapted scan and reconstructed base | Diotima — approximate photo reconstruction |
+| --- | --- |
+| ![Socrates bust](images/socrates.jpg) | ![Diotima bust](images/diotima.jpg) |
+
+Socrates uses the credited free scan; Diotima uses a single photograph and inferred geometry. The latter is not an authentic scan. Authors, modifications and component licences are recorded in [CREDITS.md](sources_and_licenses/CREDITS.md).
+
 ### Revision 25 improvements
 
 | Music entrances | Hackett forecourt |

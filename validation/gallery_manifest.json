@@ -1,0 +1,63 @@
+{
+  "images": [
+    {
+      "image": "images/hero_overview.jpg",
+      "source": "Rendered from the published UWA_Campus.blend",
+      "scene_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+      "sha256": "23bf062da381c862dd647b797e4ff635a3d5580ec31091341fa29a1ff03615fc"
+    },
+    {
+      "image": "images/winthrop.jpg",
+      "source": "Rendered from the published UWA_Campus.blend",
+      "scene_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+      "sha256": "5a26d8e494e9a51706406bfd97dead59f9b01d2e7ed4f331650005a1d0fab126"
+    },
+    {
+      "image": "images/reid.jpg",
+      "source": "Rendered from the published UWA_Campus.blend",
+      "scene_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+      "sha256": "7510a4a74113b5248873c3129192c1b958b08e15cd34d22f107eaa31ba839333"
+    },
+    {
+      "image": "images/ezone.jpg",
+      "source": "Rendered from the published UWA_Campus.blend",
+      "scene_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+      "sha256": "59c1cc13016a502c2f2f676d1a61e3f3a57d6c486dcf2ad32151c19e2b392e3d"
+    },
+    {
+      "image": "images/sunken_garden.jpg",
+      "source": "Rendered from the published UWA_Campus.blend",
+      "scene_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+      "sha256": "45dcb2d57a5fb81dbcf6aa281133dc8542a0e825f31121c1a05ccab95a23f0ce"
+    },
+    {
+      "image": "images/socrates.jpg",
+      "source": "Rendered from the published UWA_Campus.blend",
+      "scene_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+      "sha256": "ea0a11af5822dfc749dc3678bebaaf8ab219550e0af8db624ce4721e7e87d460"
+    },
+    {
+      "image": "images/diotima.jpg",
+      "source": "Rendered from the published UWA_Campus.blend",
+      "scene_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+      "sha256": "49c2332babe30f30b5aba0b4e5c697e466f18476efb5afabef8ad84f6fbc084a"
+    },
+    {
+      "image": "images/music.jpg",
+      "source": "Original R25 review render: Music_merged_R25.png",
+      "sha256": "46961ef725a4e38a1f74336b8152a911807027837290d8a77b726c6f7631652a"
+    },
+    {
+      "image": "images/hackett.jpg",
+      "source": "Original R25 review render: Hackett_merged_R25.png",
+      "sha256": "1dcdc8cfc161eaffceb1e0057704b628159640bb2faf0908359643c99fdb4780"
+    },
+    {
+      "image": "images/irwin.jpg",
+      "source": "Original R25 review render: Irwin_merged_R25.png",
+      "sha256": "a9aaff9acc6541cf49c9246959da819492cfbca7e373f06e29e28a94867f6681"
+    }
+  ],
+  "render_settings": "Cycles, 24 samples, denoising, AgX, exposure +0.4; see scripts/render_gallery.py",
+  "image_conversion": "PNG renders converted to JPEG for repository display; no generative image editing."
+}
