@@ -1,0 +1,19 @@
+{
+  "name": "UWA_Campus_Blender.zip",
+  "bytes": 726595065,
+  "sha256": "be243265a6efed00e071fd2af9685d1202119165f84e57d2d4cf003864d0a4d4",
+  "files": [
+    "UWA_Campus_Blender/scripts/README.md",
+    "UWA_Campus_Blender/scripts/render_gallery.py",
+    "UWA_Campus_Blender/scripts/validate_release.py",
+    "UWA_Campus_Blender/sources_and_licenses/ACCURACY.md",
+    "UWA_Campus_Blender/sources_and_licenses/CREDITS.md",
+    "UWA_Campus_Blender/sources_and_licenses/reference_links.json",
+    "UWA_Campus_Blender/START_HERE.txt",
+    "UWA_Campus_Blender/UWA_Campus.blend",
+    "UWA_Campus_Blender/validation/publication_validation.json",
+    "UWA_Campus_Blender/validation/release_manifest.json",
+    "UWA_Campus_Blender/validation/revision25_check_summary.json"
+  ],
+  "zip_crc_check_passed": true
+}

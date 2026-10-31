@@ -1,0 +1,340 @@
+{
+  "source_report": "UWA_Campus_Revision_25_Validation.json",
+  "source_report_sha256": "00c78ef8f3273ab9a04097c0224348eef3d4d8c41c213b3fc906b731079f9935",
+  "source_blend_sha256": "3548c471f353a9a341547977e1d4a190d90a5908777dc8659441206ff30bf8a6",
+  "revision": 25,
+  "reopened_successfully": true,
+  "all_passed": true,
+  "note": "Summary of historical scoped checks, retained from the existing R25 report; not rerun as a comprehensive architectural audit during publication.",
+  "groups": {
+    "Music": {
+      "count": 17,
+      "checks": [
+        {
+          "name": "original_sources_mesh_TRS_archived",
+          "passed": true
+        },
+        {
+          "name": "outside_faces_UV_bidirectional_surface_and_closed_components",
+          "passed": true
+        },
+        {
+          "name": "edited_mesh_stage_hashes",
+          "passed": true
+        },
+        {
+          "name": "Music_local_non_target_objects",
+          "passed": true
+        },
+        {
+          "name": "historical_application_full_non_target_zero_difference",
+          "passed": true
+        },
+        {
+          "name": "source_material_graphs_preserved",
+          "passed": true
+        },
+        {
+          "name": "new_meshes_closed_outward",
+          "passed": true
+        },
+        {
+          "name": "five_doors_actual_floor_threshold_contacts",
+          "passed": true
+        },
+        {
+          "name": "five_thresholds_dense_actual_floor_continuity",
+          "passed": true
+        },
+        {
+          "name": "actual_wall_apertures_full_estimated_clear_width",
+          "passed": true
+        },
+        {
+          "name": "door_handles_two_end_mesh_connections",
+          "passed": true
+        },
+        {
+          "name": "new_floor_existing_brick_actual_edges",
+          "passed": true
+        },
+        {
+          "name": "whole_paving_width_actual_top_and_foundation_contact",
+          "passed": true
+        },
+        {
+          "name": "porch_column_and_awning_brackets_supported",
+          "passed": true
+        },
+        {
+          "name": "local_tail_beam_pier_roof_full_width_connections",
+          "passed": true
+        },
+        {
+          "name": "photo_visible_louver_sides_and_three_notice_panels",
+          "passed": true
+        },
+        {
+          "name": "actual_full_scene_0p9m_routes_and_2m_headroom",
+          "passed": true
+        }
+      ]
+    },
+    "Hackett_forecourt": {
+      "count": 17,
+      "checks": [
+        {
+          "name": "source_and_exterior_proofs",
+          "passed": true
+        },
+        {
+          "name": "crossing_faces_actual_outside_fragments",
+          "passed": true
+        },
+        {
+          "name": "actual_canonical_targets_match_final_result",
+          "passed": true
+        },
+        {
+          "name": "dense_all_paving_interfaces_including_IP28",
+          "passed": true
+        },
+        {
+          "name": "single_misplaced_instance_archived_with_original_state",
+          "passed": true
+        },
+        {
+          "name": "original_material_graphs_and_image_content",
+          "passed": true
+        },
+        {
+          "name": "retained_receivers",
+          "passed": true
+        },
+        {
+          "name": "closed_positive_solids",
+          "passed": true
+        },
+        {
+          "name": "actual_paving_supported_and_unburied",
+          "passed": true
+        },
+        {
+          "name": "actual_treads_supported_and_level",
+          "passed": true
+        },
+        {
+          "name": "exactly_seven_150mm_candidate_risers",
+          "passed": true
+        },
+        {
+          "name": "whole_riser_and_nosing_soil_clearance",
+          "passed": true
+        },
+        {
+          "name": "wall_and_platform_foundations_contact",
+          "passed": true
+        },
+        {
+          "name": "connected_full_0_9m_corridor_surface",
+          "passed": true
+        },
+        {
+          "name": "full_receiver_seams",
+          "passed": true
+        },
+        {
+          "name": "actual_all_instance_headroom",
+          "passed": true
+        },
+        {
+          "name": "readonly_datablock_counts",
+          "passed": true
+        }
+      ]
+    },
+    "Irwin_west_and_2024": {
+      "count": 17,
+      "checks": [
+        {
+          "name": "All recorded local non-target buildings landscape and shared surfaces are unchanged",
+          "passed": true
+        },
+        {
+          "name": "Every original source material graph survived application and local reused graphs remain exact",
+          "passed": true
+        },
+        {
+          "name": "All modified sources have hidden archives and every untouched full face keeps coordinates UV material smoothing and normals",
+          "passed": true
+        },
+        {
+          "name": "All new wall ramp stair soffit and light solids are finite closed and outward",
+          "passed": true
+        },
+        {
+          "name": "Every new wall reaches actual roof and continues below actual terrain",
+          "passed": true
+        },
+        {
+          "name": "West door leaf occupies a genuine clear weatherboard aperture",
+          "passed": true
+        },
+        {
+          "name": "West door threshold and first tread meet unchanged interior floor across 0.9m clear width",
+          "passed": true
+        },
+        {
+          "name": "North ramp and turn provide actual full 0.9m surfaces and 2m head clearance without abrupt gaps",
+          "passed": true
+        },
+        {
+          "name": "Ramp low and high endpoints meet across the full width",
+          "passed": true
+        },
+        {
+          "name": "Ramp support feet embed over their full physical footprint",
+          "passed": true
+        },
+        {
+          "name": "Fourth west stair connects deck to its terrain landing over full 0.9m width and 2m clearance",
+          "passed": true
+        },
+        {
+          "name": "All four west treads contact actual wide white side boards on both edges",
+          "passed": true
+        },
+        {
+          "name": "All four new stair metal posts are seated in their white boards",
+          "passed": true
+        },
+        {
+          "name": "The west stair landing follows actual terrain with continuous embedded support across its area",
+          "passed": true
+        },
+        {
+          "name": "Continuous 2024 soffit boards physically overlap their closed supporting backing across the full finish",
+          "passed": true
+        },
+        {
+          "name": "The closed soffit backing reaches actual retained roof at every checked cross section",
+          "passed": true
+        },
+        {
+          "name": "New black downward lights attach to specific actual soffit solids",
+          "passed": true
+        }
+      ]
+    },
+    "Irwin_original_access_repairs": {
+      "count": 11,
+      "checks": [
+        {
+          "name": "All recorded existing Clough Irwin and shared paving/terrain objects outside the three targets remain identical",
+          "passed": true
+        },
+        {
+          "name": "Three exact source meshes retained; two metal batches moved rigidly and one explicit whole white-profile batch replaced",
+          "passed": true
+        },
+        {
+          "name": "Active stair members remain closed finite and noncoincident, with outward new white plates",
+          "passed": true
+        },
+        {
+          "name": "New platform and two terrain-supported solids are closed finite and face outward",
+          "passed": true
+        },
+        {
+          "name": "Every actual new landing grid point reaches the existing FFL",
+          "passed": true
+        },
+        {
+          "name": "Central new landing physically overlaps old deck and highest tread at equal level",
+          "passed": true
+        },
+        {
+          "name": "Both clock-post load paths meet actual platform solid and supports embedded in current DEM",
+          "passed": true
+        },
+        {
+          "name": "All twelve actual tread solids contact a broad white side plate on both edges",
+          "passed": true
+        },
+        {
+          "name": "Every actual metal handrail post base lies within its supporting closed white side plate",
+          "passed": true
+        },
+        {
+          "name": "All six side-board toes embed in actual DEM and their upper ends meet the old deck or new clock landing",
+          "passed": true
+        },
+        {
+          "name": "Three 0.9m walking bands have actual floors no unplanned large gaps and 2m clear height",
+          "passed": true
+        }
+      ]
+    }
+  },
+  "prior_R24_check_groups": [
+    "file",
+    "reopened_successfully",
+    "file_bytes",
+    "scene_objects",
+    "data_objects",
+    "packed_asset_audit",
+    "modified_collections",
+    "Bayliss_paving_sample_count",
+    "Bayliss_paving_min_underlay_clearance_m",
+    "Bayliss_paving_dots",
+    "Tattersall_apron_sample_count",
+    "Tattersall_apron_min_ground_clearance_m",
+    "Tattersall_canopy_foot_max_error_m",
+    "Tattersall_stair_geometry",
+    "Shenton_French_doors",
+    "Shenton_west_wing_windows_corrected",
+    "LWAG_min_clearance_m",
+    "sculpture_base_contacts",
+    "scope",
+    "Shenton_registered_doors",
+    "EECE",
+    "Orbicular",
+    "Geology",
+    "ENCM",
+    "LAF",
+    "Reid",
+    "Theatre",
+    "LWAG_lower_loading",
+    "Underpasses",
+    "Sunken_East_Links",
+    "Ceres_refinement",
+    "Eastern_river_stairs",
+    "Shenton_Reconstruction",
+    "Patricia_connections",
+    "CS_and_Robert_contacts",
+    "Sunken_NW_contacts",
+    "CP1_northern_pavement",
+    "EZONE_identity_review",
+    "CP1_duplicate_road_removal",
+    "University_Club_entries",
+    "Somerville_2024_refurbishment",
+    "New_Fortune_courtyard_contacts",
+    "AudioVisual_Workshop_entry_and_forecourt",
+    "Arts_southeast_public_steps_and_portal",
+    "Combined_Workshop_west",
+    "Administration_East_west_detail",
+    "Raine_and_Sleep_entries",
+    "Raine_and_Sleep_scene_clearance",
+    "UniCare_north_entry",
+    "Hackett_north_service_annex",
+    "Physics_roof_position_and_support",
+    "Geology_southeast_and_entry",
+    "Geology_local_ground_transition",
+    "Mathematics_south_court_and_facade",
+    "Mathematics_local_DEM_transition",
+    "Monadelphous_north_service_context",
+    "Monadelphous_local_road_transition",
+    "Monadelphous_current_guard_scan",
+    "R24_verifier_sources_sha256"
+  ]
+}

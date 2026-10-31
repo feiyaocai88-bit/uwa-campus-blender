@@ -1,0 +1,28 @@
+{
+  "source_revision": 25,
+  "source_file": "UWA_Campus_Audit_Revision_25.blend",
+  "source_sha256": "3548c471f353a9a341547977e1d4a190d90a5908777dc8659441206ff30bf8a6",
+  "source_original_unchanged": true,
+  "release_file": "UWA_Campus.blend",
+  "release_file_bytes": 726575669,
+  "release_file_sha256": "d1749505e218649a0c28e626cb8b29cbc4594ed02c3c92891253fc9c617740ec",
+  "publication_changes": {
+    "source_revision": 25,
+    "scene_objects_before": 26264,
+    "scene_objects_after": 26265,
+    "added_objects": [
+      "PUBLIC_Campus_Overview"
+    ],
+    "text_converted_to_mesh": [
+      "AG01_Institute_Roman_capital_inscription",
+      "Diotima_Incised_Plato",
+      "Diotima_Incised_Title",
+      "Socrates_Lower_English"
+    ],
+    "weak_provenance_paths_cleared": 786,
+    "weak_path_failures": [],
+    "internal_text_blocks_replaced": 70,
+    "geometry_scope": "Existing campus objects retained; system-font lettering converted to meshes; overview camera added. No architectural edits."
+  },
+  "publication_checks_passed": true
+}

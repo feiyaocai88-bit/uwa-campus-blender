@@ -1,0 +1,289 @@
+{
+  "note": "Public reference URLs extracted from the original R25 source records. A reference link does not imply that an asset is included or licensed for redistribution. Included assets are identified in CREDITS.md.",
+  "records": [
+    {
+      "source_record": "AUD28_Revision03_Art_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0058.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Building_224_Engineering.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Geology_building_from_NE.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_orbicular_granite_rock.jpg",
+        "https://creativecommons.org/licenses/by-sa/4.0/",
+        "https://creativecommons.org/licenses/by/4.0/"
+      ]
+    },
+    {
+      "source_record": "AUD28_Revision04_LAF_Sources",
+      "urls": [
+        "https://3dwarehouse.sketchup.com/model/86479c13d82bcc6536a5da68b567ac2/Large-Animal-Facility-BSAU-and-chilled-water-tank-UWA",
+        "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+        "https://studentvip.com.au/uwa/main/maps/109353"
+      ]
+    },
+    {
+      "source_record": "AUD28_Revision04_Reid_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0031.jpg",
+        "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0035.jpg",
+        "https://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/documents/uniview/179875_uniview-summer22-web.pdf"
+      ]
+    },
+    {
+      "source_record": "AUD28_Revision05_Theatre_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:UWA_Octagon_Theatre_main_entrance.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Theatres_Dolphin_from_courtyard.jpg"
+      ]
+    },
+    {
+      "source_record": "AUD28_SCULPTURE_SOURCES",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:UWADiotima.jpg",
+        "https://github.com/VAST-AI-Research/TripoSR",
+        "https://sketchfab.com/3d-models/bust-of-socrates-8e6613f59628417bbcb0e5b888b41162",
+        "https://www.thingiverse.com/thing:2606553"
+      ]
+    },
+    {
+      "source_record": "AUD29_Ceres_Sources_and_Limits",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0091.jpg",
+        "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0092.jpg",
+        "https://creativecommons.org/licenses/by/4.0/"
+      ]
+    },
+    {
+      "source_record": "AUD29_Sunken_East_Links_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:Sunken_Garden,_UWA,_May_2020_01.jpg",
+        "https://commons.wikimedia.org/wiki/File:Sunken_Garden,_UWA,_May_2020_02.jpg"
+      ]
+    },
+    {
+      "source_record": "AUD29_Underpasses_Sources_and_Estimates",
+      "urls": [
+        "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+        "https://services.ga.gov.au/gis/services/DEM_LiDAR_5m_2025/MapServer/WCSServer?SERVICE=WCS&VERSION=1.0.0&REQUEST=GetCoverage&COVERAGE=1&CRS=EPSG%3A4283&BBOX=115.81515%2C-31.98725%2C115.8226%2C-31.97465&FORMAT=GeoTIFF&WIDTH=142&HEIGHT=283",
+        "https://www.google.com/maps/@-31.9758949,115.8183039,14a,85y,180h,90t/data=!3m7!1e1!3m5!1sVSMBXbi-Txrsdal2up5wKw!2e0!7i16384!8i8192",
+        "https://www.google.com/maps/@-31.9766923,115.815597,15a,85y,326h,90t/data=!3m7!1e1!3m5!1sCrbvO5KSqoXKu9eKGSBIdQ!2e0!7i16384!8i8192",
+        "https://www.linkedin.com/posts/dm-civil_legacy-project-uwa-stirling-highway-underpass-activity-7444958947419279361-QGAd",
+        "https://www.uwa.edu.au/about/-/media/project/uwa/uwa/about/docs/campus-management/maps/uwa-accessibility-map-2022.pdf",
+        "https://www.uwa.edu.au/library/find-resources/records-and-archives/archive-stories"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision10_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:Shenton_House_cellar_stairs.jpg",
+        "https://perth.wa.gov.au/-/media/Project/COP/COP/COP/Documents-and-Forms/Develop/Documents/Planning-Framework/Planning-registers-and-lists/Local-Heritage-Survey/Stirling-Highway/549---Heritage-Place-Record---Stirling-Highway---35---UWA---Shenton-House---2457.pdf",
+        "https://studentvip.com.au/uwa/main/maps/114003"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision12_EZONE_Identity_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0057.jpg",
+        "https://futurelabatuwa.com.au/contact/",
+        "https://link.mazemap.com/k7B3qLZG",
+        "https://use.mazemap.com/#v=1&campusid=309&search=Civil%20and%20Mechanical&zlevel=1&center=115.816526,-31.980704&zoom=18&sharepoitype=identifier&sharepoi=224",
+        "https://www.uwa.edu.au/-/media/faculties/ems/docs/ezone/ezone_hiring_booklet.pdf",
+        "https://www.uwa.edu.au/-/media/faculties/ems/rich-text/oceanworks/uwa-woodside-futurelab-2021-annual-report.pdf",
+        "https://www.uwa.edu.au/facilities/ezone",
+        "https://www.uwa.edu.au/students/contact"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision14_University_Club_Sources",
+      "urls": [
+        "https://archive.caaconference.org/2013/drupal/documents/CAA_event_maps.pdf",
+        "https://commons.wikimedia.org/wiki/File:UWA_University_Club_from_E_Hackett_Dr.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_University_Club_from_E_Hackett_at_dusk.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_University_Club_from_NE_Riley_Oval.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_University_Club_from_N_Riley_Oval.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_University_Club_from_SE.jpg",
+        "https://infectiousdiseases.thekids.org.au/news--events/IICPerth/venues--accommodation/",
+        "https://infectiousdiseases.thekids.org.au/siteassets/media-docs---wesfarmers-centre/2016-iic-perth/uniclub-floorplans.pdf",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/UWA_University_Club_from_SE.jpg/1920px-UWA_University_Club_from_SE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/UWA_University_Club_from_N_Riley_Oval.jpg/1920px-UWA_University_Club_from_N_Riley_Oval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/UWA_University_Club_from_E_Hackett_Dr.jpg/1920px-UWA_University_Club_from_E_Hackett_Dr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/UWA_University_Club_from_NE_Riley_Oval.jpg/1920px-UWA_University_Club_from_NE_Riley_Oval.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/UWA_University_Club_from_E_Hackett_at_dusk.jpg/1920px-UWA_University_Club_from_E_Hackett_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://www.ticketswa.com/venue/university-club-western-australia"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision15_Somerville_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:Somerville_sign_at_UWA.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Somerville_Auditorium_back_seating.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Somerville_Auditorium_from_entrance.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Somerville_Auditorium_from_front_rows.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Somerville_Auditorium_front_entrance.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Somerville_Auditorium_front_from_side.jpg",
+        "https://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2024/somerville-drainage-works.jpg",
+        "https://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/card-image/2024/somerville-renos-card.jpg",
+        "https://www.uwa.edu.au/news/article/2024/november/uwas-beloved-cathedral-of-trees-gets-a-facelift"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision16_New_Fortune_Sources",
+      "urls": [
+        "https://www.uwa.edu.au/theatres/-/media/University-Theatres/Docs/New-Fortune-Theatre/New-Fortune-Theatre-information-pack.pdf"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision17_AudioVisual_Sources",
+      "urls": [
+        "https://studentvip.com.au/uwa/main/maps/111531",
+        "https://www.google.com/maps/@-31.9844624,115.8214277,3a,70y,270h,90t/data=!3m4!1e1!3m2!1shbaItuKHJm79rpo7uM6OOQ!2e0"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision18_Arts_Sources",
+      "urls": [
+        "https://api.research-repository.uwa.edu.au/ws/portalfiles/portal/96202632/2020_MSAWA_Conference_Programme_FINAL_1.pdf",
+        "https://s3.studentvip.com.au/photos/last-door-on-the-left-down-a-lit-154968-small.jpg",
+        "https://studentvip.com.au/uwa/main/maps/116649",
+        "https://www.aaabg.org/aaabg19/docs/UWA_campus_map.pdf",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=03UyRdnLuWabmoFRFCuDsw&heading=315.17465256899254&pitch=0&fov=75",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=03UyRdnLuWabmoFRFCuDsw&heading=340.36800823104153&pitch=-11.955161929080717&fov=37.5",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=03UyRdnLuWabmoFRFCuDsw&heading=342.1332168966577&pitch=-8.051794445136267&fov=15",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=6Rn4nj_pRxndCUPRrNDmQw&heading=296.55377644610724&pitch=-3.004178995506038&fov=15",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=DBJ4Kr9tFysC47QMvySDww&heading=0&pitch=0&fov=75",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=WJhAs5l2hq-nGE6tZ3VKsA&heading=296.55377644610724&pitch=-3.004178995506038&fov=15",
+        "https://www.uwa.edu.au/about/-/media/project/uwa/uwa/about/campus-management/uwa-parking-map---2026.pdf",
+        "https://www.uwa.edu.au/about/-/media/project/uwa/uwa/about/docs/campus-management/maps/uwa-accessibility-map-2022.pdf"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision19_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0005.jpg",
+        "https://commons.wikimedia.org/wiki/File:Saw_Promenade_and_Admin_East_building.jpg",
+        "https://s3.studentvip.com.au/photos/the-main-entrance-146190-small.jpg",
+        "https://s3.studentvip.com.au/photos/the-outside-of-the-workshop-wes-146188-small.jpg",
+        "https://studentvip.com.au/uwa/main/maps/109343"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision20_Sources",
+      "urls": [
+        "https://api.mazemap.com/api/floor/8965/?srid=4326",
+        "https://api.mazemap.com/api/pois/1000224754/?srid=4326",
+        "https://link.mazemap.com/piIgP6bz",
+        "https://s3.studentvip.com.au/photos/main-entrance-off-parkway-ave-f-142470-small.jpg",
+        "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+        "https://studentvip.com.au/uwa/main/maps/109346",
+        "https://studentvip.com.au/uwa/main/maps/109347",
+        "https://studentvip.com.au/uwa/main/maps/109351",
+        "https://use.mazemap.com/?utm_medium=shorturl&fromshortlink=true#v=1&config=uwa&zlevel=1&center=115.818561,-31.983593&zoom=18&sharepoitype=poi&sharepoi=1000224754&campusid=309",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=gBs6x_ruymDjHQeo9FnujQ&heading=90&pitch=0&fov=90",
+        "https://www.uwa.edu.au/about/-/media/project/uwa/uwa/about/docs/campus-management/maps/crawley-campus-map_numerical-grid.pdf",
+        "https://www.uwa.edu.au/schools/human-sciences/centre-for-sleep-science"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision21_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:UWA_Physics_Building_from_NW.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Physics_Building_south.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Physics_Building_south_back.jpg",
+        "https://inherit.dplh.wa.gov.au/admin/api/file/65db49bb-958f-822f-971e-5c763fae004e",
+        "https://maps.water.wa.gov.au/AAMProxy/LandSat/arcgis/rest/services/Landgate_Subscription_Imagery/WANow/MapServer",
+        "https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
+        "https://www.icrar.org/teranet-flying-laptop-test/",
+        "https://www.icrar.org/teranet/",
+        "https://www.teranet.space/engagement",
+        "https://www.teranet.space/optical-ground-stations",
+        "https://www.teranet.space/projects"
+      ]
+    },
+    {
+      "source_record": "Audit_Revision22_Sources",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:UWA_Geology_building_2006.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_Geology_building_from_S_upper.jpg",
+        "https://outandaboutfnc.wixsite.com/outandabout/post/walking-subiaco-crawley-and-uwa-art-and-architecture",
+        "https://studentvip.com.au/uwa/main/maps/123538",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e8/UWA_Geology_building_2006.jpg",
+        "https://www.google.com/maps/@-31.9776459,115.8172607,3a,30y,204.39h,97.62t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgICM6prr3QE!2e10!7i8192!8i4096",
+        "https://www.google.com/maps/@-31.9779978,115.8177358,3a,90y,90h,98t/data=!3m7!1e1!3m5!1sCIHM0ogKEICAgIC6ycrDnQE!2e10!7i4000!8i2000",
+        "https://www.resources.uwa.edu.au/360-campus-tour/",
+        "https://www.uwa.edu.au/about/locations/campus-tours",
+        "https://www.uwa.edu.au/cmca/microscopy-and-analysis"
+      ]
+    },
+    {
+      "source_record": "IP28_sources.json",
+      "urls": [
+        "https://oralhistories.arts.uwa.edu.au/items/show/100",
+        "https://www.google.com/maps/@-31.9790548,115.8179619,215m/data=!3m1!1e3",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=CIHM0ogKEICAgID4vLDBRw&heading=103.51&pitch=0&fov=75",
+        "https://www.google.com/maps/@?api=1&map_action=pano&pano=gJiOh-wtnDyjQ0g3V00z2g&heading=0&pitch=-12&fov=90",
+        "https://www.openstreetmap.org/copyright",
+        "https://www.uwa.edu.au/about/locations/campus-management"
+      ]
+    },
+    {
+      "source_record": "REID_README_AND_SOURCES.txt",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:Reid_Library_spiral_staircase.jpg",
+        "https://commons.wikimedia.org/wiki/File:UWA_191119_gnangarra-104.jpg",
+        "https://interia.com.au/case-study/uwa-reid-library/",
+        "https://www.adcoconstruct.com.au/case-study/university-of-western-australia-uwa-reid-library-refurbishment/",
+        "https://www.adcoconstruct.com.au/news/adco-delivers-a-future-ready-reid-library-for-uwa/",
+        "https://www.australiandesignreview.com/architecture/library-21st-century-reid-library-schin-architects/",
+        "https://www.openstreetmap.org/way/4995116",
+        "https://www.uwa.edu.au/-/media/uwa-library/documents/library-floor-plans/reid-floorplans-2026-compressed.pdf",
+        "https://www.uwa.edu.au/Facilities/Reid-Library",
+        "https://www.uwa.edu.au/about/locations/campus-management/campus-development/completed-projects/reid-library-refurbishment"
+      ]
+    },
+    {
+      "source_record": "RL28_source_manifest",
+      "urls": [
+        "https://api.openstreetmap.org/api/0.6/map?bbox=115.81515,-31.98725,115.8226,-31.97465",
+        "https://services.ga.gov.au/gis/services/DEM_LiDAR_5m_2025/MapServer/WCSServer?SERVICE=WCS&VERSION=1.0.0&REQUEST=GetCoverage&COVERAGE=1&CRS=EPSG%3A4283&BBOX=115.81515%2C-31.98725%2C115.8226%2C-31.97465&FORMAT=GeoTIFF&WIDTH=142&HEIGHT=283"
+      ]
+    },
+    {
+      "source_record": "RL28_source_manifest.json",
+      "urls": [
+        "https://api.openstreetmap.org/api/0.6/map?bbox=115.81515,-31.98725,115.8226,-31.97465",
+        "https://services.ga.gov.au/gis/services/DEM_LiDAR_5m_2025/MapServer/WCSServer?SERVICE=WCS&VERSION=1.0.0&REQUEST=GetCoverage&COVERAGE=1&CRS=EPSG%3A4283&BBOX=115.81515%2C-31.98725%2C115.8226%2C-31.97465&FORMAT=GeoTIFF&WIDTH=142&HEIGHT=283"
+      ]
+    },
+    {
+      "source_record": "UWA_Asset_Credits.json",
+      "urls": [
+        "https://creativecommons.org/publicdomain/zero/1.0/",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_diff_2k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/asphalt_02/asphalt_02_rough_2k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_diff_2k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_rough_2k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_diff_2k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_rough_2k.jpg",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/asphalt_02/asphalt_02_nor_gl_1k.png",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/bark_brown_02/bark_brown_02_nor_gl_1k.png",
+        "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/leafy_grass/leafy_grass_nor_gl_1k.png",
+        "https://polyhaven.com/a/asphalt_02",
+        "https://polyhaven.com/a/bark_brown_02",
+        "https://polyhaven.com/a/leafy_grass",
+        "https://polyhaven.com/license",
+        "https://www.innerscene.com/api/library/graphite-four-door-sedan-eed96d12/download",
+        "https://www.innerscene.com/api/library/sedan-car-42109739/download",
+        "https://www.innerscene.com/tools/library/3d-parts/graphite-four-door-sedan-eed96d12",
+        "https://www.innerscene.com/tools/library/3d-parts/sedan-car-42109739",
+        "https://www.innerscene.com/tools/library/terms"
+      ]
+    },
+    {
+      "source_record": "UWA_Static_Vegetation_Source.json",
+      "urls": [
+        "https://polyhaven.com/a/jacaranda_tree",
+        "https://polyhaven.com/a/shrub_02",
+        "https://polyhaven.com/license"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "file": "UWA_Campus.blend",
+  "blender": "5.2.3 LTS",
+  "source_revision": 25,
+  "reopened_successfully": true,
+  "all_passed": true,
+  "checks": {
+    "three_packed_libraries": true,
+    "all_file_images_packed": true,
+    "no_external_fonts": true,
+    "required_collections_present": true,
+    "full_scene_object_count": true,
+    "overview_camera": true,
+    "public_credit_text": true,
+    "no_unpacked_file_dependencies": true
+  },
+  "scene_objects": 26265,
+  "data_objects": 67733,
+  "libraries": [
+    {
+      "name": "UWA_BJM_Library.blend",
+      "packed": true
+    },
+    {
+      "name": "UWA_EZONE.blend",
+      "packed": true
+    },
+    {
+      "name": "UWA_Winthrop_Hall.blend",
+      "packed": true
+    }
+  ],
+  "file_images": 51,
+  "unpacked_images": [],
+  "external_fonts": [],
+  "absent_collections": [],
+  "unpacked_file_dependencies": [],
+  "empty_provenance_entries_ignored": 392,
+  "scope": "Packaging and scene-presence checks only; not a survey or comprehensive intersection test."
+}

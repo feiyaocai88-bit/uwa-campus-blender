@@ -1,0 +1,42 @@
+# Sources and licences
+
+The campus is an independently assembled, photo-guided Blender reconstruction. UWA and the photographers, artists and asset authors below do not endorse this project. This is a collection of components with different rights; no single licence is asserted over every component.
+
+## Included third-party geometry and imagery
+
+| Component | Author and source | Licence | Changes in this model |
+| --- | --- | --- | --- |
+| Socrates bust scan | jane-heloise; repaired by 3DWP. [Thingiverse 2606553](https://www.thingiverse.com/thing:2606553), [original scan](https://sketchfab.com/3d-models/bust-of-socrates-8e6613f59628417bbcb0e5b888b41162) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Orientation and estimated scale adjusted; lower inscribed plinth and base reconstructed. |
+| Diotima photograph and adapted bust | Pauldavidbourke, 9 January 2014. [UWADiotima.jpg](https://commons.wikimedia.org/wiki/File:UWADiotima.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); the adapted photo-derived component is shared under the same licence | Single-view reconstruction using [TripoSR](https://github.com/VAST-AI-Research/TripoSR), projected colour, flattened base and estimated pedestal. This is **not** Paul Bourke's downloadable scan. |
+| Ceres relief photograph | -wuppertaler, 18 February 2023. [UWA 0091](https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0091.jpg) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Projective UV registration and inferred shallow relief. The photograph's illumination remains in the colour texture. |
+| Geology north-east figurative panel | Orderinchaos, 12 January 2023. [UWA Geology building from NE](https://commons.wikimedia.org/wiki/File:UWA_Geology_building_from_NE.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); adapted panel under the same licence | Cropped/projected photograph and shallow luminance-based embossing. The source panel is low resolution; depth is inferred. |
+| Orbicular granite fountain / plaque | Orderinchaos, 27 June 2016. [UWA orbicular granite rock](https://commons.wikimedia.org/wiki/File:UWA_orbicular_granite_rock.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); adapted component under the same licence | Plaque crop and estimated basin, slab and off-centre sphere; procedural stone shading. |
+| ENCM ceramic corner approximation | -wuppertaler, [east photograph](https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_University_of_Western_Australia_0058.jpg), CC BY 4.0; Orderinchaos, [north photograph](https://commons.wikimedia.org/wiki/File:UWA_Building_224_Engineering.jpg), CC BY-SA 4.0 | Adapted corner component: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Manually traced outlines, layered inlays and procedural grout. Hidden areas are interpolated. |
+| Parked sedan A | Innerscene, [Sedan car](https://www.innerscene.com/tools/library/3d-parts/sedan-car-42109739) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Scaled, oriented and recoloured; mirror assemblies moved inward. |
+| Parked sedan B | Innerscene, [Graphite four-door sedan](https://www.innerscene.com/tools/library/3d-parts/graphite-four-door-sedan-eed96d12) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | Scaled, oriented and recoloured; shared collection instances. |
+| Jacaranda tree | Rico Cilliers, guidance by Rob Tuytel; [Poly Haven](https://polyhaven.com/a/jacaranda_tree) | [CC0 1.0](https://polyhaven.com/license) | Reduced detail, adjusted leaf density and root origin, static and instanced variants. |
+| Shrub 02 | Rico Cilliers; [Poly Haven](https://polyhaven.com/a/shrub_02) | [CC0 1.0](https://polyhaven.com/license) | Reduced detail and adjusted origin; scaled instances. |
+| Grass Bermuda 01 | Rico Cilliers; [Poly Haven](https://polyhaven.com/a/grass_bermuda_01) | [CC0 1.0](https://polyhaven.com/license) | Instanced landscaping patches. |
+| Grass Medium 01 | Rob Tuytel and Rico Cilliers; [Poly Haven](https://polyhaven.com/a/grass_medium_01) | [CC0 1.0](https://polyhaven.com/license) | Instanced landscaping patches. |
+| Leafy Grass texture | Charlotte Baglioni; [Poly Haven](https://polyhaven.com/a/leafy_grass) | [CC0 1.0](https://polyhaven.com/license) | Calibrated material tiling on landscaped ground. |
+| Asphalt 02 texture | Rob Tuytel; [Poly Haven](https://polyhaven.com/a/asphalt_02) | [CC0 1.0](https://polyhaven.com/license) | Tiled parking and road material; painted markings retained as geometry. |
+| Bark Brown 02 texture | Rob Tuytel; [Poly Haven](https://polyhaven.com/a/bark_brown_02) | [CC0 1.0](https://polyhaven.com/license) | Material applied to selected rough-barked trees. |
+
+## Geographic data
+
+- Footprints and mapped routes: **© OpenStreetMap contributors**, [copyright and attribution](https://www.openstreetmap.org/copyright), [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/). The model adapts these features into an estimated campus coordinate system. Extracts used during construction date from October 2026.
+- Elevation: **Commonwealth of Australia (Geoscience Australia)**, [5 metre LiDAR-derived DEM service](https://services.ga.gov.au/gis/rest/services/DEM_LiDAR_5m_2025/MapServer), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) as recorded in the [provider's service metadata](https://ecat.ga.gov.au/geonetwork/srv/api/records/22be4b55-2466-4320-e053-10a3070a5236). The terrain is interpolated and locally graded to connect estimated building platforms; it is not an unchanged elevation dataset. Source levels, interpolated surfaces and architectural estimates must not be treated as a site survey.
+
+## Architecture and artwork references
+
+- [UWA campus accessibility map, 2022](https://www.uwa.edu.au/about/-/media/project/uwa/uwa/about/docs/campus-management/maps/uwa-accessibility-map-2022.pdf): route context only. Estimated ramps and clearances in the model do not certify accessible routes.
+- [Reid Library](https://www.uwa.edu.au/Facilities/Reid-Library), [2026 floor plans](https://www.uwa.edu.au/-/media/uwa-library/documents/library-floor-plans/reid-floorplans-2026-compressed.pdf), [UWA refurbishment](https://www.uwa.edu.au/about/locations/campus-management/campus-development/completed-projects/reid-library-refurbishment), [ADCO project](https://www.adcoconstruct.com.au/case-study/university-of-western-australia-uwa-reid-library-refurbishment/) and [Interia](https://interia.com.au/case-study/uwa-reid-library/): architectural and interior references. Furniture positions and hidden spaces remain partly inferred.
+- Reid bridge artwork: original artist **Jade Dolman (JDPenangke)**. The model contains a simplified interpretation of visible bands, islands and dots, referenced from [UWA Uniview, Summer 2022, vol. 49](https://www.uwa.edu.au/news/-/media/project/uwa/uwa/newsroom/documents/uniview/179875_uniview-summer22-web.pdf), cover photograph **Jarryd Gardner**, and supporting views. It is not the artist's original digital artwork. Credit to the artist and photographer is retained; no broad reuse licence over that artwork is implied.
+- Wikimedia Commons architectural photographs by **Orderinchaos**, **-wuppertaler**, **Gnangarra**, and other credited authors were used for visual comparison. The specific embedded/adapted images are identified above. Additional reference URLs are in [reference_links.json](reference_links.json).
+- Google Street View, Esri World Imagery, StudentVIP and public architectural project pages were consulted as visual evidence. Their screenshots, map tiles, private audit documents and comparison-photo collections are not included in this release. No third-party 3D Warehouse model geometry is imported by the audit revisions.
+
+## Publication notes
+
+The building libraries for BJM, EZONE and Winthrop are packed into the main `.blend`. Packed textures keep the model portable. System-font lettering was converted to mesh geometry in the publication copy, so the download does not redistribute the Windows font files. The original working model is retained separately.
+
+Preserve attribution and change notices when redistributing the identified CC BY and CC BY-SA components. Share-alike terms apply to the relevant adapted components; the credits above do not relicense unrelated assets or reference photography.
